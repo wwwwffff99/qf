@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 04 22:25:19 CST 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1685888719446
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-loader-tools\:jar\:2.1.6.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset

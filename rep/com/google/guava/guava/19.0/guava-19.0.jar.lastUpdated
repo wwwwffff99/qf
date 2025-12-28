@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 04 22:25:19 CST 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1685888719596
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.guava\:guava\:jar\:19.0 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: com/google/guava/guava/19.0/guava-19.0.jar from central failed

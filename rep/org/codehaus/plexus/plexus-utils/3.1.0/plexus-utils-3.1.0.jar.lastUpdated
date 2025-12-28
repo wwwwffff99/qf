@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 04 22:25:19 CST 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1685888719575
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:jar\:3.1.0 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar from central failed
